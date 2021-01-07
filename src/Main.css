@@ -1,0 +1,25 @@
+.main {
+    flex: 1;
+    background-color: white;
+    padding: 10px 40px;
+    width: 80%;
+    float: right;
+}
+
+.shadow {
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+    -moz-box-shadow: 0 10px 6px -6px #777;
+    box-shadow: 0 10px 6px -6px #777;
+}
+
+* {
+    text-decoration: none;
+}
+
+.container {
+    display: flex;
+}
+
+.test {
+    color: red;
+}
